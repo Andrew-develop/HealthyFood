@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1014858887628-c3a9sr4vk4k6np3a72a6jlq11hs9vjbc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1014858887628-c3a9sr4vk4k6np3a72a6jlq11hs9vjbc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8Gh5Voo2mV4WdGkeQ5ClS2m-8ytWeo2w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1014858887628</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>T.HealthyFood</string>
+	<key>PROJECT_ID</key>
+	<string>healthyfood-8f01a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healthyfood-8f01a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1014858887628:ios:d499b3e1194d4f4f212d69</string>
+</dict>
+</plist>
